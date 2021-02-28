@@ -1,0 +1,79 @@
+*{
+    background-color: white;
+}
+
+
+
+h1 {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-weight: 500;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid rgb(228, 197, 197);
+    padding: 10px;
+    margin: 0px;
+    border-top-left-radius: 0vmax;
+    border-style: hidden;
+    color: indigo;
+
+}
+h1:hover{
+    background-color: lightcyan;
+}
+h1:first-child{
+    color: lightslategray;
+}
+h2 {
+    font-family: fantasy;
+    font-size: unset;
+    font-stretch: normal;
+    font-size: unset;
+    text-align: left;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    width: 320px;
+    padding: 10px;
+    margin: 0px;
+    border: 5px solid rgb(228, 162, 162);
+    border-bottom-left-radius: 0vmax;
+    border-style: hidden;
+    color: rgb(27, 23, 23);
+
+}
+em{
+    font-size: initial;
+    font-style: italic;
+}
+strong{
+    font-style: initial;
+    font-weight: bolder;
+}
+h2:hover{
+    background-color: lightcyan;
+}
+p {
+    text-decoration: tomatos;
+    color: teal;
+    font-weight: 900;
+    font-style: italic;
+    background-color: transparent;
+}
+
+li {
+    background-color: white;
+    font-weight: initial;
+    color: #000;
+    width: 200px;
+    height: 50px;
+    overflow: visible;
+}
+
+li:hover{
+    background-color: rgba(247, 231, 231, 0.979);
