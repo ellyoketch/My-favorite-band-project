@@ -2,7 +2,7 @@
 #### This project is about the music favorite band, created on 26/02/2021
 #### By **Elly Oketch**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+It plays an important role in shaping society and identities. The scope of music reaches far beyond the concert hall. It accompanies our traveling, sports, shopping, and working activities. ... Music provides parameters that can be used to frame experiences, perceptions, feelings, and comportments.hiphop has it all, 
 ## Setup/Installation Requireents
 * Ensure you have github account/ You are a registered user on github.
 * git clone https://github.com/ellyoketch/my-favorite-band-project
@@ -17,8 +17,8 @@
 * CSS
 
 ## Support and contact details
-* EMAIL  ADDRESS 
+* Email: ellyoketch34@gmail.com
 
 ### License
-*
-Copyright (c) {year} **{List of contributors or company name}**
+
+*Copyright (c) 2021 MIT License
